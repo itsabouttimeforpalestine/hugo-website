@@ -11,12 +11,12 @@ title = "It's about time for Palestine!"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+  copyright = "© 2024 [It's about time for Palestine](https://itsabouttimeforpalestine.org). Licensed under  [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)."
 
  [author]
    name = "It's about time for Palestine!"
 #   image = "img/blowfish_logo.png"
-   headline = "A humble plan for justice"
+   headline = "A simple plan for justice"
 #   bio = "in progress..."
    links = [
      { email = "mailto:itsabouttimeforpalestine@gmail.com" },
