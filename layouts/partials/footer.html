@@ -34,8 +34,7 @@
       }}
       {{- with replace .Site.Params.copyright "{ year }" now.Year  }}
       © {{ now.Format "2006" }}
-      {{ $website | markdownify | emojify }}.
-      Licensed by
+      {{ $website | markdownify | emojify }}
       {{ $license | markdownify | emojify }}.
       {{- end }}
     </p>
