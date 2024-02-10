@@ -11,6 +11,7 @@ title = "It's about time for Palestine!"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
+  # copyright string below not used. the copyright is actually hardcoded in a custom footer.html for style reasons
   copyright = "© 2024 [It's about time for Palestine](https://itsabouttimeforpalestine.org). Licensed under  [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)."
 
  [author]
