@@ -15,4 +15,5 @@ It is absolutely necessary to replace this narrative with language which reflect
     src="feature-injustice-duty.jpg"
     alt="When Injustice becomes Law, Resistance Becomes a Duty"
     caption="Photo by Andrew Ratto from Berkeley, USA; CC0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:When_Injustice_Becomes_Law,_Resistance_Becomes_a_Duty_https://commons.wikimedia.org/wiki/File:When_Injustice_Becomes_Law,_Resistance_Becomes_a_Duty_(50163811113).jpg)"
+    class="illustration-med"
     >}}
