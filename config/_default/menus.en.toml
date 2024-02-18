@@ -18,17 +18,17 @@
 
 [[main]]
   name = "Objectives"
-  pageRef = "pages"
+  pageRef = "objectives"
   weight = 20
 
 [[main]]
   name = "Plan"
-  pageRef = "pages"
+  pageRef = "plan"
   weight = 30
 
 [[main]]
   name = "Progress"
-  pageRef = "pages"
+  pageRef = "progress"
   weight = 40
 
 [[main]]
