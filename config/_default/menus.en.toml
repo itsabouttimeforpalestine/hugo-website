@@ -11,8 +11,8 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Analysis"
-  pageRef = "pages"
+  name = "Project"
+  pageRef = "project"
   weight = 10
 
 
@@ -31,11 +31,11 @@
   pageRef = "progress"
   weight = 40
 
+
 [[main]]
   name = "About"
   pageRef = "about"
-  weight = 100
-
+  weight = 60
 
 
 #[[subnavigation]]
