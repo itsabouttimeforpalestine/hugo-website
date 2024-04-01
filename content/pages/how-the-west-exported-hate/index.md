@@ -1,5 +1,5 @@
 ---
-title: "How the West Exported its Hatred"
+title: "How the West Exported its own Hatred"
 date: 2024-02-11T22:36:05+01:00
 draft: false
 summary: "The emergence of Zionism can be understood as a reaction to both rampant antisemitism and the colonialist atmosphere, both lively in Europe in the 19th century. Thus it is born out of two forms of illegitimate violence: violence against Jewish people, and violence against indigenous people in the colonies."
